@@ -1,0 +1,8 @@
+﻿name: categoryClash
+description: Head-to-head performer battles with category-specific images
+version: 0.3.0
+ui:
+  javascript:
+    - main.js
+  css:
+    - styles.css
