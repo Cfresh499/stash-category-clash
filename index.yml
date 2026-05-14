@@ -1,0 +1,9 @@
+name: Cfresh499 Plugins
+description: Custom Stash plugins
+packages:
+  - name: Category Clash
+    description: Head-to-head performer battles with category-specific images
+    version: 0.4.0
+    path: /categoryClash
+    metadata:
+      url: https://github.com/Cfresh499/stash-category-clash
